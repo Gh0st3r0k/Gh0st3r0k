@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Kostiantyn Zaitsev — Gh0st3r0k</title>
+  <desc id="desc">A technical grid with violet and cyan circuit details, inspired by my portfolio.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#d8dfef" stroke-width="0.7"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#154acb" stop-opacity=".24"/><stop offset="1" stop-color="#154acb" stop-opacity="0"/></radialGradient>
+    <linearGradient id="rule"><stop stop-color="#154acb" stop-opacity="0"/><stop offset=".35" stop-color="#154acb"/><stop offset=".7" stop-color="#006b77"/><stop offset="1" stop-color="#006b77" stop-opacity="0"/></linearGradient>
+    <clipPath id="frame"><rect x=".5" y=".5" width="959" height="289" rx="6"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="290" fill="#faf9fd"/>
+    <rect width="960" height="290" fill="url(#grid)" opacity=".65"/>
+    <ellipse cx="480" cy="115" rx="450" ry="240" fill="url(#glow)"/>
+    <path d="M160 1H800" stroke="url(#rule)" stroke-width="2"/>
+    <g stroke="#d6d9e6" stroke-width="1.2">
+      <path d="M0 145H46M76 145H116M116 145V100H150M76 145V200H126"/>
+      <circle cx="61" cy="145" r="15"/>
+      <circle cx="126" cy="200" r="3" fill="#faf9fd"/>
+      <path d="M960 145H914M884 145H844M844 145V200H810M884 145V90H834"/>
+      <circle cx="899" cy="145" r="15"/>
+      <circle cx="899" cy="145" r="10" stroke="#006b77" opacity=".65"/>
+      <circle cx="834" cy="90" r="3" fill="#faf9fd"/>
+    </g>
+    <g stroke="#5c6375" opacity=".65">
+      <path d="M26 29H38M32 23V35M922 29H934M928 23V35M26 261H38M32 255V267M922 261H934M928 255V267"/>
+    </g>
+    <text x="480" y="86" text-anchor="middle" fill="#154acb" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="16" letter-spacing="5">Gh0st3r0k</text>
+    <text x="480" y="155" text-anchor="middle" fill="#151c2e" font-family="'Space Grotesk', 'Inter', Arial, sans-serif" font-size="59" font-weight="600" letter-spacing="-2.5">Kostiantyn Zaitsev</text>
+    <text x="480" y="197" text-anchor="middle" fill="#5c6375" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2">C# / ELM / RUST / TYPESCRIPT</text>
+    <path d="M310 239H454M506 239H650" stroke="url(#rule)"/>
+    <rect x="465" y="236" width="6" height="6" fill="#154acb"/>
+    <rect x="477" y="236" width="6" height="6" fill="#154acb"/>
+    <rect x="489" y="236" width="6" height="6" fill="#006b77"/>
+  </g>
+  <rect x=".5" y=".5" width="959" height="289" rx="6" stroke="#d6d9e6"/>
+</svg>
