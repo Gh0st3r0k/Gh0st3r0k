@@ -18,8 +18,11 @@
   Студент магістратури з інформатики у <strong>FIIT STU, Братислава</strong>.
 </p>
 
+<a href="https://gh0st3r0k.github.io/my-website/uk/">
+  <img src="./assets/website-uk.svg" width="720" alt="Переглянути моє портфоліо — gh0st3r0k.github.io/my-website/">
+</a>
+
 <p>
-  <a href="https://gh0st3r0k.github.io/my-website/uk/"><strong>Портфоліо</strong></a> &nbsp; · &nbsp;
   <a href="https://gh0st3r0k.github.io/my-website/uk/projects/">Усі проєкти</a> &nbsp; · &nbsp;
   <a href="https://gh0st3r0k.github.io/my-website/cv.pdf">Резюме</a>
 </p>

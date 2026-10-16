@@ -18,8 +18,11 @@
   Študent magisterského štúdia informatiky na <strong>FIIT STU v Bratislave</strong>.
 </p>
 
+<a href="https://gh0st3r0k.github.io/my-website/sk/">
+  <img src="./assets/website-sk.svg" width="720" alt="Navštívte moje portfólio — gh0st3r0k.github.io/my-website/">
+</a>
+
 <p>
-  <a href="https://gh0st3r0k.github.io/my-website/sk/"><strong>Portfólio</strong></a> &nbsp; · &nbsp;
   <a href="https://gh0st3r0k.github.io/my-website/sk/projects/">Všetky projekty</a> &nbsp; · &nbsp;
   <a href="https://gh0st3r0k.github.io/my-website/cv.pdf">CV</a>
 </p>

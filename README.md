@@ -18,8 +18,11 @@
   Master's student in Informatics at <strong>FIIT STU, Bratislava</strong>.
 </p>
 
+<a href="https://gh0st3r0k.github.io/my-website/en/">
+  <img src="./assets/website-en.svg" width="720" alt="Explore my portfolio — gh0st3r0k.github.io/my-website/">
+</a>
+
 <p>
-  <a href="https://gh0st3r0k.github.io/my-website/en/"><strong>Portfolio</strong></a> &nbsp; · &nbsp;
   <a href="https://gh0st3r0k.github.io/my-website/en/projects/">All projects</a> &nbsp; · &nbsp;
   <a href="https://gh0st3r0k.github.io/my-website/cv.pdf">CV</a>
 </p>

@@ -26,11 +26,10 @@
     </g>
     <text x="480" y="86" text-anchor="middle" fill="#c5c0ff" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="16" letter-spacing="5">Gh0st3r0k</text>
     <text x="480" y="155" text-anchor="middle" fill="#f5f1ff" font-family="'Space Grotesk', 'Inter', Arial, sans-serif" font-size="59" font-weight="600" letter-spacing="-2.5">Kostiantyn Zaitsev</text>
-    <text x="480" y="197" text-anchor="middle" fill="#afa2cc" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2">C# / ELM / RUST / TYPESCRIPT</text>
-    <path d="M310 239H454M506 239H650" stroke="url(#rule)"/>
-    <rect x="465" y="236" width="6" height="6" fill="#6366f1"/>
-    <rect x="477" y="236" width="6" height="6" fill="#c5c0ff"/>
-    <rect x="489" y="236" width="6" height="6" fill="#00f0ff"/>
+    <path d="M310 211H454M506 211H650" stroke="url(#rule)"/>
+    <rect x="465" y="208" width="6" height="6" fill="#6366f1"/>
+    <rect x="477" y="208" width="6" height="6" fill="#c5c0ff"/>
+    <rect x="489" y="208" width="6" height="6" fill="#00f0ff"/>
   </g>
   <rect x=".5" y=".5" width="959" height="289" rx="6" stroke="#4a3d68"/>
 </svg>
